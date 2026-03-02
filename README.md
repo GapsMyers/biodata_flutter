@@ -6,10 +6,6 @@ Aplikasi **Biodata Flutter** adalah aplikasi berbasis Flutter untuk menampilkan 
 
 ## 📸 Preview Aplikasi
 
-### 👤 Halaman Profile
-![Profile Screen](assets/images/profile.jpg)
-
----
 
 ## 📖 Daftar Isi
 
